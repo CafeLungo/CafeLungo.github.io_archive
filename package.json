@@ -1,0 +1,17 @@
+{
+  "name": "react-app-toddmarimon.com",
+  "version": "1.0.0",
+  "description": "The website for the one and only Todd Marimon",
+  "main": "index.js",
+  "repository": "git@github.com:CafeLungo/react-app-toddmarimon.com.git",
+  "author": "Todd Marimon (toddmarimon@gmail.com)",
+  "license": "MIT",
+  "scripts": {
+    "build": "cd react-app; yarn build",
+    "test": "cd react-app; CI=true yarn test",
+    "install": "cd react-app; yarn;"
+  },
+  "dependencies": {
+    "create-react-app": "^1.3.0"
+  }
+}
